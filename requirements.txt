@@ -200,7 +200,7 @@ typing_extensions==4.10.0
 tzdata==2023.3
 undetected-chromedriver==3.5.5
 uritemplate==4.1.1
-urllib3==2.2.1
+urllib3
 virtualenv==20.2.1
 wasabi==1.1.2
 wcwidth==0.2.8
