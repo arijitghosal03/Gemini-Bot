@@ -1,7 +1,7 @@
 absl-py==2.1.0
 annotated-types==0.6.0
 appdirs==1.4.4
-asgiref==3.2.10
+asgiref
 astor==0.8.1
 astroid==2.4.2
 asttokens==2.4.0
